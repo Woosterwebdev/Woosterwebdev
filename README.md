@@ -1,4 +1,4 @@
-👋 Hi, I’m Christopher Wooster. I am a Full Stack Web Developer.
+👋 Hi, I’m Christopher Wooster. I am a Full Stack Web Developer.<br>
 I am new to the industry and very excited to begin my journey.
 I am currently using Scrimba to polish my Front End skills with their Frontend Developer course.
 I am also using Udemy Full Stack Web Dev Bootcamps from Dr Angela Yu and Colte Steel. 
